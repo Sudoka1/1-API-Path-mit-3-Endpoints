@@ -1,0 +1,15 @@
+{
+  "name": "1-api-path-mit-3-endpoints",
+  "version": "1.0.0",
+  "description": "# Erstelle eine API: Anforderungen 1 API Path mit 3 Endpoints Die Endpoints post: Erstellt einen User mit id, username, age,  email, password get: Gibt einen User zurück aber ohne E-Mail und Passwort put/patch: Updatet einen User. (Wichtig; Die ID darf nicht überschrieben werden) Middlwares Es muss mindestens eine Middleware verwendet werden Auslagern Middlewares, Controller und Routes müssen ausgelagert werden. Du weißt wie das geht.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
