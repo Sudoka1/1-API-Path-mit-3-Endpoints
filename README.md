@@ -52,6 +52,9 @@ Diese Datei definiert die Routen für User-Operationen und bindet die entspreche
 3. Überprüfung des Codes
 3.1 Abhängigkeiten installieren:
 
+ "scripts": {
+    "start": "nodemon .",}
+
 npm init -y
 npm install express
 
